@@ -18,7 +18,7 @@ A powerful, multi-threaded video processing tool that automates common video fil
 
 ## 🖼️ Screenshots
 
-![Application Interface](https://raw.githubusercontent.com/PurushothMathav/avp/refs/heads/main/Screenshot%202025-04-26%20133310.png)
+![Application Interface](https://github.com/PurushothMathav/avp/blob/main/Screenshot%202025-04-26%20192348.png)
 
 *Note: Replace with actual screenshot when available*
 

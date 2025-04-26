@@ -18,7 +18,7 @@ A powerful, multi-threaded video processing tool that automates common video fil
 
 ## 🖼️ Screenshots
 
-![Application Interface](https://via.placeholder.com/800x450.png?text=Advanced+Video+Processor+Interface)
+![Application Interface](https://raw.githubusercontent.com/PurushothMathav/avp/refs/heads/main/Screenshot%202025-04-26%20133310.png)
 
 *Note: Replace with actual screenshot when available*
 

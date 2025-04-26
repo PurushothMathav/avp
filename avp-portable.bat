@@ -1,3 +1,3 @@
 @echo off
-python enhanced-video-processor.py
+python avp.py
 pause

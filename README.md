@@ -1,4 +1,4 @@
-# Advanced Video Processor (AVP)
+# Advanced Video Processor
 
 A powerful, multi-threaded video processing tool that automates common video file operations, including MKV to MP4 conversion, subtitle extraction, and audio codec fixing.
 
@@ -33,8 +33,8 @@ A powerful, multi-threaded video processing tool that automates common video fil
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/advanced-video-processor.git
-cd advanced-video-processor
+git clone https://github.com/PurushothMathav/avp.git
+cd avp
 ```
 
 2. **Install required Python packages**
@@ -73,6 +73,11 @@ mkdir -p videos
 
 ```bash
 python avp.py
+```
+or
+
+```
+run avp-portable.bat file
 ```
 
 3. **View the results**

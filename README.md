@@ -20,7 +20,6 @@ A powerful, multi-threaded video processing tool that automates common video fil
 
 ![Application Interface](https://github.com/PurushothMathav/avp/blob/main/Screenshot%202025-04-26%20192348.png)
 
-*Note: Replace with actual screenshot when available*
 
 ## 🔧 Requirements
 
